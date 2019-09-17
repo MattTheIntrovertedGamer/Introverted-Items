@@ -10669,12 +10669,6 @@
 		"defname": "VAE_Apparel_MilitaryUniform"
 	},
 	{
-		"abr": "minecart",
-		"price": 167,
-		"category": "Production",
-		"defname": "Minecart"
-	},
-	{
 		"abr": "nightleather",
 		"price": 6,
 		"category": "Leathers",
@@ -10703,24 +10697,6 @@
 		"price": 327,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_PeltCoat"
-	},
-	{
-		"abr": "railboost",
-		"price": 71,
-		"category": "Misc",
-		"defname": "RailBoost"
-	},
-	{
-		"abr": "raildump",
-		"price": 67,
-		"category": "Misc",
-		"defname": "RailDump"
-	},
-	{
-		"abr": "railswitch",
-		"price": 51,
-		"category": "Misc",
-		"defname": "RailSwitch"
 	},
 	{
 		"abr": "scarf",
